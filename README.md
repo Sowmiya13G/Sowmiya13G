@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Sowmiya<br>🚀 Welcome to my GitHub profile! Here's a little about me:<br><br>🔭 I’m currently working at Doodleblue Innovations as a React Native and React.jsDeveloper <br>👯 I’m looking to collaborate on open-source projects, app and web development, or anything JavaScript-related <br>🤝 I’m looking for help with improving my skills in app development <br>🌱 I’m currently learning Docker<br>💬 Ask me about mobile and frontend development, Git/GitHub basics, or creating responsive UIs <br>⚡ Fun fact: I enjoy solving coding challenges and can code faster with lo-fi beats playing in the background 🎧
+👋 Hi there, I'm Sowmiya<br>🚀 Welcome to my GitHub profile! Here's a little about me:<br><br>🔭 I’m currently working at Doodleblue Innovations as a React Native and React.jsDeveloper <br>👯 I’m looking to collaborate on open-source projects, app and web development, or anything JavaScript-related <br>🤝 I’m looking for help with improving my skills in app development <br>🌱 I’m currently learning Docker<br>💬 Ask me about mobile and frontend development, Git/GitHub basics, or creating responsive UIs <br>⚡ Fun fact: I enjoy solving coding challenges and can code faster with beats playing in the background 🎧
 
 
 ## 🌐 Socials:
